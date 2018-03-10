@@ -16,3 +16,4 @@ Some text:
 
 updated from desktop and pushed using ssh keys
 updated from desktop and pushed using ssh keys (updated email of commit author)
+update 3
